@@ -14,5 +14,5 @@ Image :
 Inspired By : https://michiel.wordpress.com/
 
 ## References ##
-1.https://github.com/d3/d3/blob/master/API.md#forces-d3-force
-2.http://christopheviau.com/d3list/
+* https://github.com/d3/d3/blob/master/API.md#forces-d3-force
+* http://christopheviau.com/d3list/
